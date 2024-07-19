@@ -1,0 +1,279 @@
+# Copyright (C) 2024 gadgethub
+# This file is distributed under the same license as the gadgethub package.
+msgid ""
+msgstr ""
+"Project-Id-Version: gadgethub\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-31 11:19+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: patterns/banner.php:22
+msgid "Weekend Promotions"
+msgstr ""
+
+#: patterns/banner.php:26
+msgid "Select Wireless-Pro"
+msgstr ""
+
+#: patterns/banner.php:30
+msgid "20% Off"
+msgstr ""
+
+#: patterns/banner.php:35, patterns/categories.php:26, patterns/categories.php:48, patterns/categories.php:66, patterns/categories.php:94, patterns/categories.php:118, patterns/categories.php:138, patterns/categories.php:162, patterns/cta.php:39
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/banner.php:54
+msgid "Free Delivery"
+msgstr ""
+
+#: patterns/banner.php:58
+msgid "From all orders over $100"
+msgstr ""
+
+#: patterns/banner.php:72
+msgid "Money-back Guarantee"
+msgstr ""
+
+#: patterns/banner.php:76
+msgid "100% money back guarantee"
+msgstr ""
+
+#: patterns/banner.php:90
+msgid "Secure payments"
+msgstr ""
+
+#: patterns/banner.php:94
+msgid "We ensure secure payment"
+msgstr ""
+
+#: patterns/banner.php:112
+msgid "Loreamm ipsum dolro amet."
+msgstr ""
+
+#: patterns/categories.php:17
+msgid "Smartphones"
+msgstr ""
+
+#: patterns/categories.php:21
+msgid "Amazing Deals on Smartphone"
+msgstr ""
+
+#: patterns/categories.php:43
+msgid "A Healthy leap ahead."
+msgstr ""
+
+#: patterns/categories.php:57
+msgid "Computer, Laptops"
+msgstr ""
+
+#: patterns/categories.php:61
+msgid "Introducing new MacBook Pro"
+msgstr ""
+
+#: patterns/categories.php:85
+msgid "Wireless Headphones"
+msgstr ""
+
+#: patterns/categories.php:89
+msgid "Bluetooth Headphones"
+msgstr ""
+
+#: patterns/categories.php:109
+msgid "Camera Drones"
+msgstr ""
+
+#: patterns/categories.php:113
+msgid "DJI Mavic Pro Platinum"
+msgstr ""
+
+#: patterns/categories.php:129
+msgid "Esports Gaming"
+msgstr ""
+
+#: patterns/categories.php:133
+msgid "Best Gaming Experience"
+msgstr ""
+
+#: patterns/categories.php:153
+msgid "Better Sound"
+msgstr ""
+
+#: patterns/categories.php:157
+msgid "Indoor, Outdoor & Portable"
+msgstr ""
+
+#: patterns/cta.php:17
+msgid "Limited Offer on Smartphone"
+msgstr ""
+
+#: patterns/cta.php:21
+msgid "Get 50% off when buying online"
+msgstr ""
+
+#: patterns/cta.php:29
+msgid "Big Offer: 50% Off"
+msgstr ""
+
+#: patterns/cta.php:33
+msgid "Don’t miss this special Offer"
+msgstr ""
+
+#: patterns/error-404.php:22
+msgid "Something’s wrong here…"
+msgstr ""
+
+#: patterns/error-404.php:26
+msgid "There may be a misspelling in the URL entered, or the page you were looking for doesn't exist. Check out our help center or head back to home."
+msgstr ""
+
+#: patterns/footer-default.php:16
+msgid "Contact Info"
+msgstr ""
+
+#: patterns/footer-default.php:21
+msgid "Address:"
+msgstr ""
+
+#: patterns/footer-default.php:31
+msgid "Phone:"
+msgstr ""
+
+#: patterns/footer-default.php:35
+msgid "+123 8942 873"
+msgstr ""
+
+#: patterns/footer-default.php:41
+msgid "Email:"
+msgstr ""
+
+#: patterns/footer-default.php:71
+msgid "Download the app and get the world at your fingertips."
+msgstr ""
+
+#: patterns/footer-default.php:104
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-default.php:108, patterns/footer-default.php:142
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-default.php:112
+msgid "My Account"
+msgstr ""
+
+#: patterns/footer-default.php:118
+msgid "Search Products"
+msgstr ""
+
+#: patterns/footer-default.php:122
+msgid "Order Information"
+msgstr ""
+
+#: patterns/footer-default.php:126
+msgid "Signup / Login"
+msgstr ""
+
+#: patterns/footer-default.php:146
+msgid "Online chat"
+msgstr ""
+
+#: patterns/footer-default.php:150
+msgid "Whats App"
+msgstr ""
+
+#: patterns/footer-default.php:159
+msgid "Terms Of Use"
+msgstr ""
+
+#: patterns/footer-default.php:166
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-default.php:170
+msgid "Terms & Conditions"
+msgstr ""
+
+#: patterns/footer-default.php:174
+msgid "Return Policy"
+msgstr ""
+
+#: patterns/footer-default.php:180
+msgid "Refund Policy"
+msgstr ""
+
+#: patterns/footer-default.php:184
+msgid "Order Tracking"
+msgstr ""
+
+#: patterns/footer-default.php:199
+msgid "© Copyright 2023"
+msgstr ""
+
+#: patterns/footer-default.php:199
+msgid "Developed by"
+msgstr ""
+
+#: patterns/header-default.php:16
+msgid "Refer to a friend and Get"
+msgstr ""
+
+#: patterns/header-default.php:29
+msgid "Find Our Store"
+msgstr ""
+
+#: patterns/header-default.php:41
+msgid "Free Standard Shipping"
+msgstr ""
+
+#: patterns/header-default.php:75
+msgid "Call Us"
+msgstr ""
+
+#: patterns/header-default.php:79
+msgid "+123 8942 8734"
+msgstr ""
+
+#: patterns/latest-blogs.php:15
+msgid "Our Latest Blog & Articles"
+msgstr ""
+
+#: patterns/latest-blogs.php:52
+msgid "No Blog post Found!"
+msgstr ""
+
+#: patterns/trending-cta.php:16
+msgid "TRENDING ACCESSORIES COLLECTION"
+msgstr ""
+
+#: patterns/trending-cta.php:20
+msgid "Best Selling"
+msgstr ""
+
+#: patterns/trending-cta.php:20
+msgid "2023"
+msgstr ""
+
+#: patterns/trending-cta.php:20
+msgid "Products"
+msgstr ""
+
+#: patterns/trending-cta.php:25
+msgid "Discover More"
+msgstr ""
+
+#: patterns/trending-products.php:15
+msgid "Trending This Week"
+msgstr ""
+
+#: patterns/trending-products.php:20
+msgid "View All Products"
+msgstr ""

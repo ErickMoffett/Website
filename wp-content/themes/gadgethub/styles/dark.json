@@ -1,0 +1,231 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "title": "Dark",
+  "settings": {
+    "color": {
+      "background": true,
+      "text": true,
+      "link": true,
+      "palette": [
+        {
+          "slug": "primary",
+          "name": "Primary",
+          "color": "#F57224"
+        },
+        {
+          "slug": "secondary",
+          "name": "Secondary",
+          "color": "#e4651a"
+        },
+        {
+          "slug": "foreground-color",
+          "name": "Foreground color",
+          "color": "#0D1117"
+        },
+        {
+          "slug": "bg-color",
+          "name": "Background color",
+          "color": "#010101"
+        },
+        {
+          "slug": "heading",
+          "name": "Heading",
+          "color": "#ffffff"
+        },
+        {
+          "slug": "paragraph",
+          "name": "Paragraph",
+          "color": "#ffffff"
+        },
+        {
+          "slug": "lightcolor",
+          "name": "Light Color",
+          "color": "#ffffff"
+        },
+        {
+          "slug": "bd-color",
+          "name": "Border color",
+          "color": "#0D1117"
+        },
+        {
+          "slug": "transparent",
+          "name": "Transparent",
+          "color": "transparent"
+        },
+        {
+          "slug": "spring-green",
+          "name": "Spring Green",
+          "color": "#91BE0B"
+        },
+        {
+          "slug": "celery",
+          "name": "Celery",
+          "color": "#83B400"
+        },
+        {
+          "slug": "kelly-green",
+          "name": "Kelly Green",
+          "color": "#1F7009"
+        },
+        {
+          "slug": "lagoon",
+          "name": "Lagoon",
+          "color": "#3BBE94"
+        },
+        {
+          "slug": "mermaid",
+          "name": "Mermaid",
+          "color": "#01A58A"
+        },
+        {
+          "slug": "turquoise",
+          "name": "Turquoise",
+          "color": "#24BBC2"
+        },
+        {
+          "slug": "peacock",
+          "name": "Peacock",
+          "color": "#006776"
+        },
+        {
+          "slug": "iris",
+          "name": "Iris",
+          "color": "#5C58A4"
+        },
+        {
+          "slug": "beet",
+          "name": "Beet",
+          "color": "#650044"
+        },
+        {
+          "slug": "purple",
+          "name": "Purple",
+          "color": "#5E047F"
+        },
+        {
+          "slug": "lemon",
+          "name": "Lemon",
+          "color": "#FBE201"
+        },
+        {
+          "slug": "gold",
+          "name": "Gold",
+          "color": "#FDC003"
+        },
+        {
+          "slug": "latte",
+          "name": "Latte",
+          "color": "#D2BF9E"
+        },
+        {
+          "slug": "mocha",
+          "name": "Mocha",
+          "color": "#714F2A"
+        },
+        {
+          "slug": "slate",
+          "name": "Slate",
+          "color": "#3B453C"
+        }
+      ],
+      "gradients": [
+        {
+          "slug": "vertical-primary-to-secondary",
+          "gradient": "linear-gradient(to bottom, #ed2161 0%, #dfb297 100%)",
+          "name": "Vertical Primary to Secondary"
+        },
+        {
+          "slug": "vertical-primary-to-background",
+          "gradient": "linear-gradient(to bottom, #ed2161 0%, #ffffff 100%)",
+          "name": "Vertical Pramiry to Background"
+        },
+        {
+          "slug": "vertical-secondary-to-background",
+          "gradient": "linear-gradient(to bottom, #dfb297 0%, #ffffff 100%)",
+          "name": "Vertical Secondary to Background"
+        },
+        {
+          "slug": "warm-flame",
+          "gradient": "linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%)",
+          "name": "Warm Flame"
+        },
+        {
+          "slug": "night-fade",
+          "gradient": "linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%)",
+          "name": "Night Fade"
+        },
+        {
+          "slug": "spring-warm",
+          "gradient": "linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%)",
+          "name": "Spring Warm"
+        },
+        {
+          "slug": "young-passion",
+          "gradient": "linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%)",
+          "name": "Young Passion"
+        },
+        {
+          "slug": "sunny-morning",
+          "gradient": "linear-gradient(120deg, #f6d365 0%, #fda085 100%)",
+          "name": "Sunny Morning"
+        },
+        {
+          "slug": "dusty-grass",
+          "gradient": "linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%)",
+          "name": "Dusty Grass"
+        },
+        {
+          "slug": "tempting-azure",
+          "gradient": "linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%)",
+          "name": "Tempting Azure"
+        },
+        {
+          "slug": "malibu-beach",
+          "gradient": "linear-gradient(to right, #4facfe 0%, #00f2fe 100%)",
+          "name": "Malibu Beach"
+        },
+        {
+          "slug": "grown-early",
+          "gradient": "linear-gradient(to top, #0ba360 0%, #3cba92 100%)",
+          "name": "Grown Early"
+        },
+        {
+          "slug": "sharp-blues",
+          "gradient": "linear-gradient(to top, #00c6fb 0%, #005bea 100%)",
+          "name": "Sharp Blues"
+        },
+        {
+          "slug": "above-clouds",
+          "gradient": "linear-gradient(to left, #BDBBBE 0%, #9D9EA3 100%), radial-gradient(88% 271%, rgba(255, 255, 255, 0.25) 0%, rgba(254, 254, 254, 0.25) 1%, rgba(0, 0, 0, 0.25) 100%), radial-gradient(50% 100%, rgba(255, 255, 255, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%)",
+          "name": "Above Clouds"
+        },
+        {
+          "slug": "plum-bath",
+          "gradient": "linear-gradient(to top, #cc208e 0%, #6713d2 100%)",
+          "name": "Plum Bath"
+        },
+        {
+          "slug": "smart-indigo",
+          "gradient": "linear-gradient(to top, #b224ef 0%, #7579ff 100%)",
+          "name": "Smart Indigo"
+        },
+        {
+          "slug": "fruit-blend",
+          "gradient": "linear-gradient(to right, #f9d423 0%, #ff4e50 100%)",
+          "name": "Fruit Blend"
+        },
+        {
+          "slug": "night-call",
+          "gradient": "linear-gradient(-225deg, #AC32E4 0%, #7918F2 48%, #4801FF 100%)",
+          "name": "Night Call"
+        },
+        {
+          "slug": "teen-party",
+          "gradient": "linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%)",
+          "name": "Teen Party"
+        }
+      ]
+    }
+  }
+}

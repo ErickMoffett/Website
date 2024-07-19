@@ -1,0 +1,49 @@
+<!-- wp:template-part {"slug":"header","theme":"gadgethub"} /-->
+
+<!-- wp:group {"tagName":"main","layout":{"type":"default"}} -->
+<main class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|x-small","bottom":"var:preset|spacing|large","left":"var:preset|spacing|x-small"},"blockGap":"0"}},"backgroundColor":"bd-color","layout":{"type":"default"}} -->
+  <div class="wp-block-group has-bd-color-background-color has-background" style="padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--x-small);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--x-small)"><!-- wp:query-title {"type":"search","textAlign":"center"} /--></div>
+  <!-- /wp:group -->
+  
+  <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|x-small","bottom":"var:preset|spacing|large","left":"var:preset|spacing|x-small"}}},"layout":{"type":"constrained"}} -->
+  <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--x-small);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--x-small)"><!-- wp:query {"queryId":1,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"default"}} -->
+  <div class="wp-block-query"><!-- wp:post-template {"layout":{"type":"grid","columnCount":3}} -->
+  <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":"0"},"border":{"radius":"10px"}},"backgroundColor":"bd-color","layout":{"type":"constrained"}} -->
+  <div class="wp-block-group has-bd-color-background-color has-background" style="border-radius:10px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:post-featured-image {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"0px","bottomRight":"0px"}}}} /-->
+  
+  <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|small","right":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small"},"blockGap":"var:preset|spacing|xx-small"}},"layout":{"type":"constrained"}} -->
+  <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:post-terms {"term":"category"} /-->
+  
+  <!-- wp:post-title {"level":4,"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"fontSize":"24"} /-->
+  
+  <!-- wp:post-date /--></div>
+  <!-- /wp:group --></div>
+  <!-- /wp:group -->
+  <!-- /wp:post-template -->
+  
+  <!-- wp:query-pagination {"layout":{"type":"flex","justifyContent":"center"}} -->
+  <!-- wp:query-pagination-previous /-->
+  
+  <!-- wp:query-pagination-numbers /-->
+  
+  <!-- wp:query-pagination-next /-->
+  <!-- /wp:query-pagination -->
+  
+  <!-- wp:query-no-results -->
+  <!-- wp:paragraph {"align":"center","placeholder":"Add text or blocks that will display when a query returns no results.","fontSize":"20"} -->
+  <p class="has-text-align-center has-20-font-size">Sorry, but nothing matched your search terms.</p>
+  <!-- /wp:paragraph -->
+  <!-- /wp:query-no-results --></div>
+  <!-- /wp:query --></div>
+  <!-- /wp:group -->
+  
+  <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","right":"20px","left":"20px","bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|x-small"}},"backgroundColor":"bd-color","layout":{"type":"constrained"}} -->
+  <div class="wp-block-group has-bd-color-background-color has-background" style="padding-top:var(--wp--preset--spacing--large);padding-right:20px;padding-bottom:var(--wp--preset--spacing--large);padding-left:20px"><!-- wp:heading {"textAlign":"center","level":3,"textColor":"heading","fontSize":"54"} -->
+  <h3 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-54-font-size">SEARCH AGAIN</h3>
+  <!-- /wp:heading -->
+  
+  <!-- wp:search {"label":"","showLabel":false,"placeholder":"    ","width":50,"widthUnit":"%","buttonText":"Search","buttonPosition":"button-inside","buttonUseIcon":true,"align":"center","style":{"border":{"width":"2px","radius":"2px"}},"borderColor":"text-link-hover","backgroundColor":"primary","textColor":"text-light"} /--></div>
+  <!-- /wp:group --></main>
+  <!-- /wp:group -->
+  
+  <!-- wp:template-part {"slug":"footer","theme":"gadgethub"} /-->
